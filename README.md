@@ -1,2 +1,2 @@
-# arc
-Simple zsh theme 
+# Arc
+Minimal zsh prompt theme 
