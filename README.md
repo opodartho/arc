@@ -1,0 +1,2 @@
+# arc
+Simple zsh theme 
